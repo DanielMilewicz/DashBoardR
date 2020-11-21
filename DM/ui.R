@@ -17,7 +17,7 @@ shinyUI(
                         type="image/png" />'))),
         div(style="padding: 1px 0px; width: '100%'",
             titlePanel(
-                title="", windowTitle = "101 Steps to Dev"
+                 title="", windowTitle = "101 Steps to Dev"
             )
         ),
         ##-- Header ----
